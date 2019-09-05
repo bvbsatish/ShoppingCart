@@ -1,0 +1,10 @@
+com\shopper\controller\LoginController.class
+com\shopper\config\WebConfig.class
+com\shopper\config\MyWebAppInitializer.class
+com\shopper\dao\LoginDAO.class
+com\shopper\service\impl\LoginServiceImpl.class
+com\shopper\config\AppConfig.class
+com\shopper\model\Login.class
+com\shopper\model\Customer.class
+com\shopper\dao\impl\LoginDAOImpl.class
+com\shopper\service\LoginService.class
